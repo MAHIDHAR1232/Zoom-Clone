@@ -1,4 +1,4 @@
-# zoom-clone-2.0
+# Zoom-Clone
 
 ## Features
 - Inro page (Host a meeting or join a meeting page)
