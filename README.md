@@ -9,4 +9,3 @@
 - close/Open Video
 - Mute/UnMute Audio
 
-  
